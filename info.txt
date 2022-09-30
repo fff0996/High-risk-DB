@@ -1,4 +1,4 @@
-사용한 UK Biobank에 올려진 ICD10 code 개수 : 2060 개
+사용한 UK Biobank에 올려진 ICD10 code 개수 : 2060 개 (100개 씩 26면 2600개 경우 수)
 이 중 약 34만명 샘플에서 case가 1이상인 ICD10 code 개수 : 1891 개
 사용한 quantitative trait 개수 : 126개
 ICD10- quantitative trait 개수 : 238,266 개
