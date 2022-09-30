@@ -1,2 +1,3 @@
 사용한 ICD10 disease 개수 : 1891 개
 사용한 quantitative trait 개수 : 126개
+ICD10- quantitative trait 개수 : 238,266 개
